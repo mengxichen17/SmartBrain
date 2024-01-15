@@ -1,5 +1,4 @@
-# SmartBrain - Final
-Final project for ZTM course
+# SmartBrain - FrontEnd
 
 
 1. Clone this repo
